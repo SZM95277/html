@@ -1,0 +1,529 @@
+[33mcommit fedbce3d01703fdbdcb5fee8caffe9a771af2f46[m[33m ([m[1;36mHEAD -> [m[1;32m6.x[m[33m)[m
+Author: SZM95277 <1442396809@qq.com>
+Date:   Sat Jun 21 15:34:26 2025 +0800
+
+    third_save
+
+[33mcommit 239f50a8a18c087b80c450bd406b876f3a4a52cb[m
+Author: SZM95277 <1442396809@qq.com>
+Date:   Sat Jun 21 15:32:29 2025 +0800
+
+    Second_save
+
+[33mcommit ba2904afe1ae6e1240a92b02f1ffcba1332b1415[m
+Author: SZM95277 <1442396809@qq.com>
+Date:   Sat Jun 21 15:28:44 2025 +0800
+
+    first_save
+
+[33mcommit cb9092527e8b6cd8f9a69aedff70a3a3d95228e5[m[33m ([m[1;31mupstream/HEAD[m[33m, [m[1;31mupstream/6.x[m[33m)[m
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Fri Sep 1 11:34:19 2023 -0400
+
+    Update readme.md
+
+[33mcommit 64ddfdcaeeb8d332bd98bef442bef81e39c3910b[m[33m ([m[1;33mtag: v6.4.1[m[33m)[m
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Mon Apr 24 22:46:11 2023 -0400
+
+    Update composer.json
+
+[33mcommit ac74f580459a5120079b8def0404e5d312a09504[m[33m ([m[1;33mtag: v6.4.0[m[33m)[m
+Merge: 78c3cb5 599cea7
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Mon Feb 13 13:15:35 2023 -0500
+
+    Merge pull request #730 from laravel-shift/l10-compatibility
+    
+    Laravel 10.x Compatibility
+
+[33mcommit 599cea7d9075ae6d503328fed8a5cd65a2496975[m
+Author: Shift <shift@laravelshift.com>
+Date:   Mon Jan 30 20:00:17 2023 +0000
+
+    Bump dependencies for Laravel 10
+
+[33mcommit 78c3cb516ac9e6d3d76cad9191f81d217302dea6[m[33m ([m[1;33mtag: v6.3.0[m[33m)[m
+Merge: ae15b9c 9ee4251
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Tue Feb 8 16:02:54 2022 -0500
+
+    Merge pull request #700 from laravel-shift/l9-compatibility
+    
+    Laravel 9.x Compatibility
+
+[33mcommit 9ee4251d57d9ba6d5a51cba6689ae15bedf84b8e[m
+Author: Shift <shift@laravelshift.com>
+Date:   Thu Jan 20 18:39:07 2022 +0000
+
+    Bump dependencies for Laravel 9
+
+[33mcommit ae15b9c4bf918ec3a78f092b8555551dd693fde3[m[33m ([m[1;33mtag: v6.2.1[m[33m)[m
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Tue Dec 15 15:20:05 2020 -0500
+
+    Because of compatibility with PHP 8
+
+[33mcommit db28e1a9039d68001857463bc9dd88397d84f53d[m
+Merge: af6e88d 74384b0
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Tue Dec 15 15:13:31 2020 -0500
+
+    Merge pull request #676 from open-source-contributions/improve_phpunit_fixtures
+    
+    Improve PHPUnit fixtures
+
+[33mcommit af6e88d7f65ed05ce92237d44b597aff18a865d7[m
+Merge: f337e4f 06ae76a
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Tue Dec 15 10:19:21 2020 -0500
+
+    Merge pull request #671 from repat/6.x
+    
+    Fix method_exists when model is not string or object (PHP8)
+
+[33mcommit 74384b08d935d117a1d9de487b1d6bc2f4b8584a[m
+Author: peter279k <peter279k@gmail.com>
+Date:   Sat Dec 12 02:51:17 2020 +0800
+
+    Improve PHPUnit fixtures
+
+[33mcommit 06ae76ab165af1cbf16103f0bf442363a90799e6[m
+Author: repat <repat@repat.de>
+Date:   Thu Nov 19 18:35:14 2020 +1300
+
+    Fix method_exists when model is not string or object
+
+[33mcommit f337e4f6057907a796a0c5256d0fa3e6c3da55f7[m
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Mon Sep 7 16:12:41 2020 -0400
+
+    Because .x is the real dev master
+
+[33mcommit 3bb99be7502feb2129b375cd026ccb0fa4b66628[m[33m ([m[1;33mtag: v6.2.0[m[33m)[m
+Merge: 7ec9bb0 42455e4
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Mon Sep 7 15:59:40 2020 -0400
+
+    Merge branch 'laravel-shift-l8-compatibility' into 6.x
+
+[33mcommit 42455e4f6917b6622c7f9cb7d297752eadaf41d4[m
+Author: Laravel Shift <shift@laravelshift.com>
+Date:   Mon Sep 7 14:55:08 2020 +0000
+
+    Bump dependencies for Laravel 8
+
+[33mcommit 7ec9bb06ed4211bb79d7952111870adae81d58c9[m
+Merge: 308de02 92b6655
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Fri Jun 26 15:38:04 2020 -0400
+
+    Merge pull request #653 from bytestream/bytestream-patch-1
+    
+    Update .gitattributes
+
+[33mcommit 308de02173e832438d3a6af1338658e81b8ece00[m
+Merge: 5ef9a3c b43878d
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Fri Jun 26 15:36:47 2020 -0400
+
+    Merge pull request #654 from ngmy/fix-helper-return-types
+    
+    Fix the return type of helpers
+
+[33mcommit b43878dbce2e2c2201fc72058e45dc9b3f6132c7[m
+Author: Yuta Nagamiya <y.nagamiya@gmail.com>
+Date:   Tue Jun 16 21:09:53 2020 +0900
+
+    Fix the return type of helpers
+
+[33mcommit 92b66552182a28ee1dffee152ee8509d1eea8dba[m
+Author: Kieran <kieran.brahney@gmail.com>
+Date:   Wed Jun 3 12:41:04 2020 +0100
+
+    Update .gitattributes
+
+[33mcommit 5ef9a3c9ae2423fe5618996f3cde375d461a3fc6[m[33m ([m[1;33mtag: v6.1.2[m[33m)[m
+Merge: 8951151 d2910a7
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Tue May 19 14:02:16 2020 -0400
+
+    Merge pull request #649 from rogermui/route-param
+    
+    redo pull request #627 with backwards compatibility
+
+[33mcommit d2910a7a978bdb2df485e0d27b0c549c55ea35d7[m
+Author: Roger Mui <rogermui@finao.com.au>
+Date:   Mon May 18 16:26:17 2020 +1000
+
+    redo pull request #627 with backwards compatibility
+
+[33mcommit 895115187e6fca81350a0b1152b5804f52a8ac28[m[33m ([m[1;33mtag: v6.1.1[m[33m)[m
+Merge: 8d18ac6 240cfcf
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Sun May 17 16:19:55 2020 -0400
+
+    Merge branch '6.0' into 6.x
+
+[33mcommit 240cfcfd31e1918455a356248691f3c56270b5a1[m[33m ([m[1;31mupstream/6.0[m[33m)[m
+Merge: f622d99 eed5d93
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Sun May 17 16:00:50 2020 -0400
+
+    Merge pull request #623 from Kolpikov/refactor-get-model-value-attribute-method
+    
+    Eliminate double call of the transformKey method
+
+[33mcommit f622d996dffeecda76b6c19cf6fdf4b81f98e3c4[m
+Merge: d4c632d 9d45eb1
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Sun May 17 15:59:18 2020 -0400
+
+    Merge pull request #620 from fabianocouto/6.0
+    
+    Add escape param in all link methods
+
+[33mcommit d4c632dc5c8ddbfc401e60a91239131a70cde899[m
+Merge: 64f2268 c44b222
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Sun May 17 15:58:21 2020 -0400
+
+    Merge pull request #626 from phenriqueleao/patch-1
+    
+    Create readme-ptbr.md
+
+[33mcommit 8d18ac6a68527bce8dee5409b44c7b619e39a055[m
+Merge: 64f2268 ae9f533
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Sun May 17 15:56:18 2020 -0400
+
+    Merge pull request #627 from ChrisThompsonTLDR/bugfix/route-arrays
+    
+    Fixes a bug where passed to route() causes errors
+
+[33mcommit ae9f533f991f9ff7021d4c505d5e28d2573f8c00[m
+Merge: 6906174 64f2268
+Author: Chris Thompson <christhompsontldr@gmail.com>
+Date:   Fri Apr 17 09:28:28 2020 -0400
+
+    Merge remote-tracking branch 'github.com/6.x' into bugfix/route-arrays
+
+[33mcommit 64f2268bf41bf02b3a9dd3c30f102e934d721664[m[33m ([m[1;33mtag: v6.1.0[m[33m, [m[1;31mupstream/master[m[33m)[m
+Merge: bcc317d 0cf70cc
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Mon Mar 2 11:41:28 2020 -0500
+
+    Merge pull request #639 from jasonmccreary/patch-1
+    
+    Support for Laravel 7
+
+[33mcommit 0cf70cc0731314a708bbbe2d81d3b255be6df1c7[m
+Author: Jason McCreary <jason@pureconcepts.net>
+Date:   Mon Mar 2 10:46:29 2020 -0500
+
+    Support for Laravel 7
+
+[33mcommit 69061741837ccc9422c6cfa2c0aa35b89ea28103[m
+Author: Chris Thompson <cthompson@wellsmedia.com>
+Date:   Tue Nov 12 20:02:04 2019 -0500
+
+    Fixes a bug where passed to route() causes errors
+    
+    This attempts to fix #510 even though the example provided by @zsoltgyure isn't actually using route model binding.
+    
+    This bugfix was tested and works with the following.
+    
+    Non-route model binding:
+    ```
+    {{ Form::open(['route' => ['mytest', [$file->id]]]) }}
+    ```
+    
+    Another non-route model binding:
+    ```
+    {{ Form::open(['route' => ['mytest', $file->id]]) }}
+    ```
+    
+    Multiple models into route model binding:
+    ```
+    {{ Form::open(['route' => ['manage.files.delete', [$currentPodcast, $file]]]) }}
+    ```
+    
+    Single model into route model binding:
+    ```
+    {{ Form::open(['route' => ['manage.podcast.delete', $currentPodcast]]) }}
+    ```
+
+[33mcommit c44b222756f665e5d3e738cfbcc350f4498c94d4[m
+Author: Pedro Henrique Leão <phenriqueleao@gmail.com>
+Date:   Sun Oct 27 23:40:29 2019 -0300
+
+    Create readme-ptbr.md
+
+[33mcommit eed5d939e8c160d900e508bbd6369a6e9afdd173[m
+Author: Andrew Kolpikov <kolpikov.andrey@gmail.com>
+Date:   Sun Oct 27 20:11:02 2019 +0200
+
+    Eliminate double call of the transformKey method
+
+[33mcommit 9d45eb1cc161f080ae57f88d200e167953bdaf44[m
+Author: Fabiano Couto <facodeli@gmail.com>
+Date:   Sat Oct 5 17:14:16 2019 -0300
+
+    Add escape param in all link methods
+
+[33mcommit bcc317d21a7e04eebcc81c4109fa84feaab63590[m[33m ([m[1;33mtag: v6.0.3[m[33m)[m
+Merge: 2f181ab 5f419d4
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Tue Oct 1 20:37:39 2019 -0400
+
+    Merge pull request #619 from jasonmccreary/patch-1
+    
+    Update constraints to match Laravel 6 releases
+
+[33mcommit 5f419d476d8e5168771c4e3d368c433e5799f690[m
+Author: Jason McCreary <jason@pureconcepts.net>
+Date:   Tue Oct 1 16:09:38 2019 -0400
+
+    Update constraints to match Laravel 6 releases
+
+[33mcommit 2f181aba73390eec13d398bf57877b1cc3bc2588[m[33m ([m[1;33mtag: v6.0.2[m[33m)[m
+Merge: 55a38c0 7c2c4f1
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Mon Sep 23 02:16:50 2019 -0400
+
+    Merge pull request #613 from stephweb/stephweb-6.0
+    
+    Laravel 6.0 - Refacto compatibility with >=7.2 for tests
+
+[33mcommit 55a38c0a71fb9e298ef1b5422e6f9bcee931e99d[m
+Merge: 08f9941 0abf2a3
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Mon Sep 23 02:14:20 2019 -0400
+
+    Merge pull request #614 from sykmhmh/6.0
+    
+    [6.0] Use DeferrableProvider interfaces instead of defer property
+
+[33mcommit 0abf2a3aa1c39df53b4712b7f299320fd9b65933[m
+Author: sykmhmh <kmhmh0813@gmail.com>
+Date:   Sat Sep 21 20:15:25 2019 +0900
+
+    [6.0] Use DeferrableProvider interfaces instead of defer property
+
+[33mcommit 08f99410b4a78fedcc06920af7a0a06cc6e3192f[m
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Sat Sep 14 22:47:46 2019 -0400
+
+    Update LaravelCollectiveHTML-banner.png
+
+[33mcommit 43d028b30f9ff757dba0937166fb27fa40363f1a[m
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Sat Sep 14 22:45:53 2019 -0400
+
+    Banner image
+
+[33mcommit 7c2c4f1734da876980a758a74430cbbf63ddcf2b[m
+Merge: 028c5bf 4aecb0b
+Author: Stephen: Développeur Freelance - Web / PHP 7 / Laravel 6 <contact@devandweb.fr>
+Date:   Fri Sep 6 14:19:27 2019 +0200
+
+    Merge branch '6.0' into stephweb-6.0
+
+[33mcommit 028c5bf054c383d4edf7ec9550c1904690405735[m
+Author: stephweb <contact@devandweb.fr>
+Date:   Fri Sep 6 14:06:41 2019 +0200
+
+    Refacto for PHP 7.2 with tests
+
+[33mcommit 4aecb0bb71013d1218c70ee02b011944840dcb60[m[33m ([m[1;33mtag: v6.0.1[m[33m)[m
+Merge: 3e4c999 3a1c997
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Thu Sep 5 08:33:18 2019 -0400
+
+    Merge branch '5.8' into 6.0
+
+[33mcommit 3a1c9974ea629eed96e101a24e3852ced382eb29[m[33m ([m[1;33mtag: v5.8.1[m[33m, [m[1;31mupstream/5.8[m[33m)[m
+Merge: b3b35b6 b2ae014
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Thu Sep 5 08:32:25 2019 -0400
+
+    Merge pull request #609 from stephweb/stephweb-5.8
+    
+    Laravel 5.8 - Add compatibility with >=7.2 for tests
+
+[33mcommit 3e4c999549d587e31ef741d991057f44ffe77429[m
+Merge: 6d5c716 ab42985
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Thu Sep 5 08:31:19 2019 -0400
+
+    Merge pull request #611 from hebbet/patch-1
+    
+    update link for docs
+
+[33mcommit ab42985bcb12669fc60aebc16a46e2787b76037c[m
+Author: hebbet <pascal.herbert@gmail.com>
+Date:   Thu Sep 5 14:10:43 2019 +0200
+
+    update link for docs
+    
+    also add https
+
+[33mcommit 58c127bcf76886ed37ec3cf97675aec63eda362c[m
+Author: stephweb <contact@devandweb.fr>
+Date:   Wed Sep 4 21:44:02 2019 +0200
+
+    Add compatibility with >=7.2 for tests
+
+[33mcommit b2ae0145b7b0ebce085be6d8f8412b96c5cec313[m
+Author: stephweb <contact@devandweb.fr>
+Date:   Tue Sep 3 18:06:02 2019 +0200
+
+    Add compatibility with >=7.2 for tests
+
+[33mcommit 6d5c71602191be5f3479fbd9acbc593d9f6b0c81[m[33m ([m[1;33mtag: v6.0[m[33m)[m
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Tue Aug 27 16:36:57 2019 -0400
+
+    Update .travis.yml
+
+[33mcommit 258a7f77578b4ffad6ec4136344fd3b6a8adfacd[m
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Tue Aug 27 16:35:43 2019 -0400
+
+    Update composer.json
+
+[33mcommit 1d38ada9ede3b0e4b3f7697f766dc281f101f6ef[m
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Tue Aug 27 14:18:07 2019 -0400
+
+    Minor fixes
+
+[33mcommit b3b35b61433e77d8673e51e3b99183d2db4621c1[m
+Merge: ec0ebb1 fd12a0e
+Author: Victor Isadov <isadov@icewood.net>
+Date:   Sun Mar 3 23:06:51 2019 +0300
+
+    Merge branch 'master' into 5.8
+
+[33mcommit ec0ebb1a6e095a66869b2ad92e82ffd848128202[m
+Merge: 0e36014 e787394
+Author: Victor Isadov <brahman63@mail.ru>
+Date:   Sun Mar 3 22:52:36 2019 +0300
+
+    Merge pull request #593 from LaravelCollective/decadence-patch-1
+    
+    Change order in array_merge
+
+[33mcommit fd12a0ef760c0ee07a98ff033caf74ae080cfbf0[m
+Merge: 4fda97e 4915143
+Author: Victor Isadov <brahman63@mail.ru>
+Date:   Sun Mar 3 22:50:25 2019 +0300
+
+    Merge pull request #591 from TiDJ/patch-1
+    
+    Wrong return doc comment in renderComponent function
+
+[33mcommit e7873944b88a1259daffbfedc4caca164b933025[m
+Author: Victor Isadov <brahman63@mail.ru>
+Date:   Sun Mar 3 22:45:13 2019 +0300
+
+    Change order in array_merge
+    
+    Closes https://github.com/LaravelCollective/html/issues/575
+
+[33mcommit 4915143db6b181240fc933eb1db433265900fbca[m
+Author: Tom Jamon <contact@tomjamon.com>
+Date:   Sat Mar 2 00:07:58 2019 +0100
+
+    Wrong return doc comment in renderComponent function
+    
+    renderComponent return a HTMLString (Illuminate\Support\HtmlString)
+
+[33mcommit 0e360143d3476fe4141d267a260c140569fa207b[m[33m ([m[1;33mtag: v5.8.0[m[33m)[m
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Fri Mar 1 17:53:41 2019 -0500
+
+    Update composer.json
+
+[33mcommit 4fda97ebd44df0dd3c0a13030a09521330500b06[m
+Merge: 777b6d3 d1999f8
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Fri Mar 1 17:46:42 2019 -0500
+
+    Merge pull request #590 from ranabd36/dev-5.8
+    
+    Pull request for Larvel 5.8
+
+[33mcommit d1999f8dec310f6630dd8c22cacdeb4069b1bc2c[m
+Author: Ibrahim Al Naz Rana <ranabd36@gmail.com>
+Date:   Fri Mar 1 22:22:04 2019 +0600
+
+    Update laravel 5.8
+
+[33mcommit f83bc503a6999a8c98da7ff9cf0cd95143dbde10[m
+Author: Moh. Ibrahim Al Naz Rana <ranabd36@gmail.com>
+Date:   Fri Mar 1 19:05:08 2019 +0600
+
+    Update readme.md
+
+[33mcommit b6208070ed34e48a285cc23394dce1fd66b950f8[m
+Author: Ibrahim Al Naz Rana <ranabd36@gmail.com>
+Date:   Fri Mar 1 18:35:49 2019 +0600
+
+    Update laravel 5.8
+
+[33mcommit 7b8080c43ab49511bf11570e41874717548436b2[m
+Author: Ibrahim Al Naz Rana <ranabd36@gmail.com>
+Date:   Thu Feb 28 13:26:01 2019 +0600
+
+    Update for for laravel 5.8
+
+[33mcommit 2fc07eeaa4923a2681e65c1171bb3c1ba467c41e[m
+Author: Ibrahim Al Naz Rana <ranabd36@gmail.com>
+Date:   Thu Feb 28 13:25:36 2019 +0600
+
+    Remove deprecated helper function and use Facade instead
+
+[33mcommit 48d7cff50277fe4dd4c1abf516fc535fa1b1a2d7[m[33m ([m[1;31mupstream/5.7[m[33m)[m
+Merge: 777b6d3 d316b45
+Author: Victor Isadov <brahman63@mail.ru>
+Date:   Fri Jan 25 21:42:58 2019 +0300
+
+    Merge pull request #583 from shadoWalker89/patch-2
+    
+    [5.7] Simplify isNestedModel() method, no need for if
+
+[33mcommit d316b457196164b2df55547b324fed026791b3fa[m
+Author: Melek REBAI <melek.rebai89@gmail.com>
+Date:   Fri Jan 25 11:07:59 2019 +0100
+
+    [5.7] Simplify method, no need for if
+
+[33mcommit 777b6d390811ba249255ed5750bf17a019cd88a5[m[33m ([m[1;33mtag: v5.7.1[m[33m)[m
+Merge: 68caec9 974605f
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Wed Sep 5 14:32:53 2018 -0400
+
+    Merge branch '5.6' into 5.7
+
+[33mcommit 68caec9e820453e9835cc11a83969188f770467f[m[33m ([m[1;33mtag: v5.7[m[33m)[m
+Merge: 327cff9 ed7cbf7
+Author: Matt Lantz <mattlantz@gmail.com>
+Date:   Wed Sep 5 14:08:07 2018 -0400
+
+    Merge pull request #567 from yajra/patch-57
+    
+    Add support for Laravel 5.7
+
+[33mcommit ed7cbf782478fa2e3f58431c8db0537667364cad[m
+Author: Arjay Q. Angeles <aqangeles@gmail.com>
+Date:   Wed Sep 5 14:35:52 2018 +0800
+
+    Add support for Laravel 5.7.
+    Fix #564, #565
+
+[33mcommit 974605fcd22a7e4d19f0b2ef635a0d1d7400387d[m[33m ([m[1;33mtag: v5.6.10[m[33m, [m[1;31mupstream/5.6[m[33m)[m
+Author: Tautvydas <tautvydas.rasimavicius@gmail.com>
+Date:   Mon Jun 18 18:04:16 2018 +0300
+
+    Allow sub-select to be iterable to accept array and collection (#540)
